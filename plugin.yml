@@ -1,0 +1,17 @@
+name: DeathSwapNew
+main: me.greenem.DeathSwap.MainFile
+version: 0.0.1
+api-version: 1.17
+commands:
+   dsstart:
+      description: Turning the player role to the hunter
+      permission: TestPlugin.basic
+   dsstop:
+      description: Turning the player role to the hunter
+      permission: TestPlugin.basic
+   dsjoin:
+      description: Turning the player role to the hunter
+      permission: TestPlugin.basic
+   dsleave:
+      description: Turning the player role to the hunter
+      permission: TestPlugin.basic
